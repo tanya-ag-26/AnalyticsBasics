@@ -1,4 +1,4 @@
 # AnalyticsBasics
 This is my first Git Repository.
 <br>
-Author - Tanya Agrawal
+Author - Tanya Agrawal(Btech)
